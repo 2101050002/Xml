@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Catalog>
+  <Cd>
+    <Title>Acharya</Title>
+    <Artist>Chiranjeevi</Artist>
+    <Price>150</Price>
+    <Yearofrelease>2022</Yearofrelease>
+    <Banner>Konidela Productions</Banner>
+  </Cd>
+  <Cd>
+    <Title>Arya</Title>
+    <Artist>Allu Arjun</Artist>
+    <Price>145</Price>
+    <Yearofrelease>2002</Yearofrelease>
+    <Banner>GeethaProductions</Banner>
+  </Cd>
+  <Cd>
+    <Title>Rangasthalam</Title>
+    <Artist>Ram Charan</Artist>
+    <Price>150</Price>
+    <Yearofrelease>2018</Yearofrelease>
+    <Banner>Mytri Productions</Banner>
+  </Cd>
+  <Cd>
+    <Title>NTR</Title>
+    <Artist>Simhadri</Artist>
+    <Price>150</Price>
+    <Yearofrelease>2003</Yearofrelease>
+    <Banner>NTR Productions</Banner>
+  </Cd>
+  <Cd>
+    <Title>Bharat Ane Nenu</Title>
+    <Artist>Mahesh Babu</Artist>
+    <Price>150</Price>
+    <Yearofrelease>2022</Yearofrelease>
+    <Banner>Uv Productions</Banner>
+  </Cd>
+</Catalog>
